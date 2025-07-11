@@ -1,0 +1,5 @@
+ACCOUNTS
+1000,Cash at bank,0,100.000000
+4000,销售收入,3,100.000000
+TRANSACTIONS
+1,Sat Jul 12 01:26:20 2025,现金销售,Cash at bank,销售收入,100.000000
